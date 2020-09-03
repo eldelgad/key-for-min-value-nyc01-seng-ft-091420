@@ -17,5 +17,3 @@ def key_for_min_value(name_hash)
   lowest_item
   
 end
-
-key_for_min_value(name_hash)
