@@ -17,3 +17,5 @@ def key_for_min_value(name_hash)
   return lowest_price
   
 end
+
+return lowest_item
